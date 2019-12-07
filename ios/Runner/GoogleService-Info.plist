@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>744163457942-0kad64iq542sp0gqag4bf1audj4qfc3i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.744163457942-0kad64iq542sp0gqag4bf1audj4qfc3i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDa5UBIZU-aNO3F4MTDq6bxZHVwABKjOGE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744163457942</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>babynames.babyNames</string>
+	<key>PROJECT_ID</key>
+	<string>baby-names-project-eccbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baby-names-project-eccbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744163457942:ios:80c0b810b9569991</string>
+	<key>DATABASE_URL</key>
+	<string>https://baby-names-project-eccbb.firebaseio.com</string>
+</dict>
+</plist>
